@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 As a CSE Student, my carrer goal is building practical and effective solutions in the digital world.
+🎓 As a CSE Student, my carrer goal is building practical and effective solutions in the digital world.<br>
 💻 I love problem-solving, making stuff that works, and experimenting with new ideas — because why settle for ordinary when we can build extraordinary?
 
 
@@ -38,7 +38,7 @@ Programming Languages:
   <a href="mailto:adhityaelangovan05@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="www.linkedin.com/in/adhityae506">
+  <a href="https://linkedin.com/in/adhityae506">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
