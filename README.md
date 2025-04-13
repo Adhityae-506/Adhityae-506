@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Toolbox
 <div align= "Center">
 
 Programming Languages: 
