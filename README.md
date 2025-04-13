@@ -48,20 +48,18 @@ Programming Languages:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhityae-506&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhityae-506&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhityae-506&theme=gotham&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityae-506&theme=gotham&hide_border=false&layout=compact"/>
 </div>
 
 ---
 
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
-</picture>
+## ☕ Support Me
 
-<p><a href="https://ko-fi.com/Ko-fi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
-> *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
+<p><b>If you like what I build, fuel my next project ☕👇</b></p>
+<p><a href="https://ko-fi.com/Ko-fi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="190" alt="Ko-fi" /></a></p><br><br>
+<hr>
+
+*"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
 
