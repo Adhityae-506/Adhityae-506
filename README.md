@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-
+<center>
 **Programming Languages:**  
 <img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Languages" />
 
@@ -25,7 +25,7 @@
 
 **Other Technologies:**
 <img src="https://skillicons.dev/icons?i=git,github" alt="Other tech" />
-
+</center>
 ---
 
 ## 📫 Contact Me
@@ -44,18 +44,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhityaelangovan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhityaelangovan&theme=gotham&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhityaelangovan&theme=gotham&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhityae-506&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhityae-506&theme=gotham&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityae-506&theme=gotham&hide_border=false&layout=compact"/>
 </div>
 
 ---
 
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
 </picture>
 
 
