@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Adhitya+Elangovan;+Aspiring+Software+Developer;Let's+Code+Something+Awesome+Together!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Adhitya+Elangovan;Software+Developer;Let's+Code+Something+Awesome+Together!">
   </a>
   
 </div>
@@ -16,17 +16,20 @@
 ---
 
 ## 🛠️ Skills & Technologies
-<center>
-**Programming Languages:**  
-<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Languages" />
+<div align= "Center">
 
-**Web Technologies:**  
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Tech" />
-
-**Other Technologies:**
-<img src="https://skillicons.dev/icons?i=git,github" alt="Other tech" />
-</center>
----
+Programming Languages: 
+<br><br>
+   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=python,c,cpp"/>
+<br><br>
+ Web Technology: 
+<br><br>
+   <img alt="Web Development" src = "https://skillicons.dev/icons?i=html,css,js"/>
+<br><br>
+ Other Technology: 
+<br><br>
+<img alt="Tools" src = "https://skillicons.dev/icons?i=git,github"/>
+<br><br>
 
 ## 📫 Contact Me
 
