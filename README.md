@@ -29,7 +29,7 @@ Programming Languages:
 <br><br>
  Other Tools: 
 <br><br>
-<img alt="Tools" src = "https://skillicons.dev/icons?i=git,github"/>
+<img alt="Tools" src = "https://skillicons.dev/icons?i=git,github,vscode"/>
 <br><br>
 
 ## 📫 Contact Me
@@ -62,7 +62,6 @@ Programming Languages:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
 </picture>
 
-
-
+<p><a href="https://ko-fi.com/Ko-fi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
 > *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
 
