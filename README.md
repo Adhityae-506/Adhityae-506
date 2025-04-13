@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Tech" />
 
 **Other Technologies:**
-<img src="https://skillicons.dev/icons?i=Git,Github" alt="Web Tech" />
+<img src="https://skillicons.dev/icons?i=git,github" alt="Other tech" />
 
 ---
 
