@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Adhitya+Elangovan;Software+Developer;Let's+Code+Something+Awesome+Together!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Adhitya+Elangovan;Passionate Software+Developer;Let's+Code+Something+Awesome+Together!">
   </a>
   
 </div>
@@ -26,7 +26,7 @@ Programming Languages:
 <br><br>
    <img alt="Web Development" src = "https://skillicons.dev/icons?i=html,css,js"/>
 <br><br>
- Other Technology: 
+ Other Tools: 
 <br><br>
 <img alt="Tools" src = "https://skillicons.dev/icons?i=git,github"/>
 <br><br>
