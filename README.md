@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Adhitya+Elangovan;Passionate Software+Developer;Let's+Code+Something+Awesome+Together!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+Guys!!+👋+I'm+Adhitya+Elangovan;+Passionate+Software+Developer;Let's+Build+Something+Awesome!">
   </a>
   
 </div>
@@ -10,8 +10,9 @@
 
 ## 🚀 About Me
 
-🎓 I'm an CSE-student, chasing my passion for building practical, impactful digital solutions.  
-💻 I love problem-solving, making stuff that works, and experimenting with new ideas — because why settle for ordinary when we can build extraordinary?  
+🎓 As a CSE Student, my carrer goal is building practical and effective solutions in the digital world.
+💻 I love problem-solving, making stuff that works, and experimenting with new ideas — because why settle for ordinary when we can build extraordinary?
+
 
 ---
 
@@ -37,7 +38,7 @@ Programming Languages:
   <a href="mailto:adhityaelangovan05@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://www.linkedin.com/in/adhityaelangovan/">
+  <a href="www.linkedin.com/in/adhityae506">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
