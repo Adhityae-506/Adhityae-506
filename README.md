@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Adhitya+Elangovan;+Aspiring+Software+Developer;Let's+Code+Something+Awesome+Together!">
+  </a>
+  
+</div>
 
-<!--
-**Adhityae-506/Adhityae-506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm an CSE-student, chasing my passion for building practical, impactful digital solutions.  
+💻 I love problem-solving, making stuff that works, and experimenting with new ideas — because why settle for ordinary when we can build extraordinary?  
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Programming Languages:**  
+<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Languages" />
+
+**Web Technologies:**  
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Tech" />
+
+**Other Technologies:**
+<img src="https://skillicons.dev/icons?i=Git,Github" alt="Web Tech" />
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:adhityaelangovan05@gmail.com">
+    <img alt="email" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adhityaelangovan/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adhityaelangovan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhityaelangovan&theme=gotham&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhityaelangovan&theme=gotham&hide_border=false&layout=compact"/>
+</div>
+
+---
+
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ashwinn-si/ashwinn-si/output/github-snake.svg" />
+</picture>
+
+
+
+> *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
+
