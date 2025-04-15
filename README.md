@@ -61,9 +61,11 @@ Programming Languages:
 
 ## ☕ Support Me
 
+<div align="center">
 <p><b>If you like what I build, fuel my next project ☕👇</b></p>
 <p><a href="https://ko-fi.com/Ko-fi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="190" alt="Ko-fi" /></a></p><br><br>
 <hr>
+</div>
 
 *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
 
