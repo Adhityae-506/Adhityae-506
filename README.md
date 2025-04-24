@@ -52,9 +52,9 @@ Programming Languages:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhityae-506&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhityae-506&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhityae-506&theme=gotham&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityae-506&theme=gotham&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityae-506&theme=gotham&hide_border=false&layout=compact"/><br>
 </div>
 
 ---
