@@ -25,7 +25,7 @@
 
 Programming Languages: 
 <br><br>
-   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=python,c,cpp"/>
+   <img alt="Programming Languages" src = "https://skillicons.dev/icons?i=c,java,python"/>
 <br><br>
  Web Technology: 
 <br><br>
