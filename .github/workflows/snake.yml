@@ -2,12 +2,11 @@ name: Generate Snake Game
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ Needed to push the snake game file
+  contents: write
 
 jobs:
   generate:
@@ -18,18 +17,21 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs (light + dark)
         uses: Platane/snk@v3
         with:
-          github_user_name: Adhityae-506   # ✅ Your username
-          outputs: dist/snake.svg
+          github_user_name: Adhityae-506
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Commit and Push Snake Game
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p output
           cp dist/snake.svg output/snake.svg
-          git add output/snake.svg
-          git commit -m "Generated Snake Game"
-          git push
+          cp "dist/snake-dark.svg?palette=github-dark" output/snake-dark.svg
+          git add output || true
+          git commit -m "Generated Snake Game" || echo "No changes to commit"
+          git push || echo "No changes to push"
