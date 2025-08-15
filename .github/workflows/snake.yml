@@ -1,37 +1,40 @@
-name: Generate Snake Game
+name: Generate Snake Animation
 
 on:
   schedule:
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+  workflow_dispatch: # Allows manual runs
+  push:
+    branches:
+      - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Generate Snake SVGs (light + dark)
+    permissions:
+      contents: write
+
+    steps:
+      # Pull the repo so it can save the files
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate the snake files
+      - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
           github_user_name: Adhityae-506
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push Snake Game
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p output
-          cp dist/snake.svg output/snake.svg
-          cp "dist/snake-dark.svg?palette=github-dark" output/snake-dark.svg
-          git add output || true
-          git commit -m "Generated Snake Game" || echo "No changes to commit"
-          git push || echo "No changes to push"
+      # Push the generated files to your repo
+      - name: Push Snake Files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "Generated Snake Animation"
+          add: "dist/*.svg"
