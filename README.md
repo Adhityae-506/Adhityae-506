@@ -55,12 +55,6 @@
 
 ---
 
-## 😂 Random Dev Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -86,5 +80,4 @@
 </div>
 
 ---
-
 > 💬 *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
