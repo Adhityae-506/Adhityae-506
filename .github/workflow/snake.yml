@@ -1,0 +1,37 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Snake SVGs (light + dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Adhityae-506
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push Snake Game
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p output
+          cp dist/snake.svg output/snake.svg
+          cp "dist/snake-dark.svg?palette=github-dark" output/snake-dark.svg
+          git add output || true
+          git commit -m "Generated Snake Game" || echo "No changes to commit"
+          git push || echo "No changes to push"
