@@ -1,9 +1,7 @@
 <div align="center">
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=550&lines=Hey+Guys!!+👋+I'm+Adhitya+Elangovan;Full+Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Let's+Build+Something+Awesome!😉">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=00C3FF&center=true&vCenter=true&width=550&lines=Hey+Guys!!+👋+I'm+Adhitya+Elangovan;Full+Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Let's+Build+Something+Awesome!😉" alt="Typing intro" />
   </a>
-  
 </div>
 
 ---
@@ -20,10 +18,10 @@
 ## 🛠 Skills & Tools
 
 **Programming:**  
-![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)  
+![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
 
 **Web Tech:**  
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
 
 **Tools & Platforms:**  
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)
@@ -33,12 +31,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adhityae-506&theme=gotham&show_icons=true&count_private=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adhityae-506&theme=gotham" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adhityae-506&theme=gotham&show_icons=true&count_private=true" alt="GitHub stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adhityae-506&theme=gotham" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityae-506&theme=gotham&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhityae-506&theme=gotham&layout=compact" alt="Top languages" />
 </p>
 
 ---
@@ -46,8 +44,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adhityae-506&theme=onestar&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adhityae-506&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" />
 </p>
+
 ---
 
 ## 💡 Daily Quote
@@ -79,11 +78,11 @@
 ## ☕ Support My Work
 
 <div align="center">
-<p><b>If you like what I build, fuel my next project ☕👇</b></p>
-<a href="https://ko-fi.com/adhityae"> 
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee" />
-</a>
-<hr>
+  <p><b>If you like what I build, fuel my next project ☕👇</b></p>
+  <a href="https://ko-fi.com/adhityae">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee" />
+  </a>
+  <hr>
 </div>
 
 ---
