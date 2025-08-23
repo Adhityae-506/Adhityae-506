@@ -79,5 +79,11 @@
   <hr>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
+</picture>
+
 ---
 > 💬 *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
