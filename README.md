@@ -44,8 +44,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adhityae-506&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adhityae-506&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
+
 
 ---
 
@@ -68,7 +69,14 @@
 </p>
 
 ---
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
+</picture>
+</div>
+<div>
 ## ☕ Support My Work
 
 <div align="center">
@@ -78,12 +86,5 @@
   </a>
   <hr>
 </div>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Adhityae-506/Adhityae-506/output/github-snake.svg" />
-</picture>
-</div>
----
+
 > 💬 *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
