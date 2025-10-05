@@ -77,14 +77,16 @@
 </picture>
 </div>
 <div>
+
 ## ☕ Support My Work
 
 <div align="center">
   <p><b>If you like what I build, fuel my next project ☕👇</b></p>
-  <a href="[https://ko-fi.com/adhityae](https://www.starbucks.com/menu)">
+  <a href="https://www.starbucks.com/menu" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee" />
   </a>
   <hr>
 </div>
+
 
 > 💬 *"Code is not just syntax — it's poetry in logic, and I'm here to write verses."*
