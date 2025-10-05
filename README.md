@@ -81,7 +81,7 @@
 
 <div align="center">
   <p><b>If you like what I build, fuel my next project ☕👇</b></p>
-  <a href="https://ko-fi.com/adhityae">
+  <a href="[https://ko-fi.com/adhityae](https://www.starbucks.com/menu)">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me a Coffee" />
   </a>
   <hr>
